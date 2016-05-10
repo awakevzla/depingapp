@@ -12,5 +12,5 @@
 */
 
 Route::get('/', function () {
-    return view('inicio.login');
+    return view('inicio.home');
 });
